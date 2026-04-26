@@ -42,7 +42,6 @@ Later on, I may install and configure another physical interface for the firewal
 
 Below is a list of goals that I plan on accomplishing. They are in no specific order:
 
-- Install a DNS sinkhole such as pi-hole for ad free and tracker free browsing.
 - Deploy a virtual firewall such as pfsense / opnsense and route all traffic through it.
 - Flash a custom firmware such as DD-WRT, OpenWrt or FreshTomato on my SOHO router that allows VLAN configuration.
 - (Long term) Potentially move hosting from GitHub pages to a container on my proxmox server???
